@@ -1,0 +1,26 @@
+{
+  "cwd": "/Users/rene/Sites/mcmxiv.com/Alba/Alba-v4/Foreign",
+  "type": [
+    "pwa"
+  ],
+  "name": "Alba Foreign",
+  "framework": "svelte",
+  "template": "split-view",
+  "bundler": "webpack",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#ffbb1d",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "alba-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.7.0",
+    "fastify-cors": "^4.1.0",
+    "make-promises-safe": "^5.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
